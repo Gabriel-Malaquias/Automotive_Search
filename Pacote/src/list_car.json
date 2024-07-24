@@ -1,0 +1,838 @@
+{
+    "list1":[
+        {
+            "cor": "#663743",
+            "titulo": "Chevrolet Onix 2010",
+            "FIPE": "Preço FIPE R$ 29.686",
+            "descricao": "Conhecido por seu design moderno e atrativo, o Onix oferece uma boa relação custo-benefício, com um interior bem equipado e confortável. Equipado com motores de 1.0 e 1.4 litros, ele proporciona uma condução eficiente e econômica. O Onix também se destaca pela tecnologia embarcada, incluindo opções de conectividade avançada e sistemas de entretenimento",
+            "path": "https://www.autossegredos.com.br/wp-content/webp-express/webp-images/uploads/2016/08/Chevrolet_onix_joy_2017-10-1024x684.jpg.webp"
+        },
+        {
+            "cor": "#515f68",
+            "titulo": "Honda Civic 2010",
+            "FIPE": "Preço FIPE R$ 44.586",
+            "descricao": "O Honda Civic de 2010 é um sedã compacto conhecido por sua confiabilidade, eficiência de combustível e design moderno. Equipado com motores de 1.8 e 2.0 litros, oferece uma condução suave e uma cabine bem projetada com tecnologia intuitiva.",
+            "path": "https://www.vehiclehistory.com/uploads/2010-Honda-Civic.jpeg"
+
+        },
+        {
+            "cor": "#d0dae4",
+            "titulo": "Chevrolet Vectra GT 2010",
+            "FIPE": "Preço FIPE R$ R$ 34.371",
+            "descricao": "O Chevrolet Vectra GT de 2010 é uma versão hatchback do popular Vectra, oferecendo um visual esportivo e um desempenho robusto. Com motores 2.0 de até 140 cv, é apreciado por seu espaço interno e conforto, além de contar com uma boa lista de equipamentos de série.",
+            "path": "https://cdn.autopapo.com.br/box/uploads/2019/04/26184256/chevrolet-vectra-gtx.jpg"
+        },
+        {
+            "cor": "#3b556d",
+            "titulo": "Volkswagen SpaceFox 2010",
+            "FIPE": "Preço FIPE R$ 30.000",
+            "descricao": "O Volkswagen SpaceFox de 2010 é uma perua compacta conhecida por sua versatilidade e espaço interno. Equipado com um motor 1.6, oferece uma condução confortável e prática para famílias, com destaque para o amplo porta-malas e o design funcional.",
+            "path": "https://cdn.autopapo.com.br/box/uploads/2024/01/30164551/volkswagen_spacefox_prateada_2007_2010.jpg"
+        },
+        {
+            "cor": "#74747c",
+            "titulo": "Honda Fit 2010",
+            "FIPE": "Preço FIPE R$ 38.384",
+            "descricao": "O Honda Fit de 2010 é um hatchback subcompacto que se destaca pela excelente eficiência de combustível e versatilidade interna. Com um motor 1.4 ou 1.5, oferece uma condução ágil e um interior espaçoso e configurável, ideal para uso urbano e viagens curtas.",
+            "path": "https://cdn.autopapo.com.br/box/uploads/2022/12/06195641/honda-fit-1-5-exl-2010-cinza-frente-parado-em-autodromo-com-faois-de-neblina-ligados.jpg"
+        },
+        {
+            "cor": "#4b2624",
+            "titulo": "Renault Sandero 2010",
+            "FIPE": "Preço FIPE R$ 26.734",
+            "descricao": "O Renault Sandero de 2010 é um hatchback compacto conhecido por sua robustez e custo-benefício. Equipado com motores 1.0 e 1.6, é elogiado pelo espaço interno generoso e pelo conforto ao dirigir, tornando-se uma opção popular entre famílias e jovens motoristas.",
+            "path": "https://cdn.autopapo.com.br/box/uploads/2024/01/30171537/renault_sandero_2010_vermelho.jpg"
+        },
+        {
+            "cor": "#91897e",
+            "titulo": "Corolla 2010",
+            "FIPE": "Preço FIPE R$ 49.521",
+            "descricao": "O Toyota Corolla de 2010 é um sedã compacto que se destaca pela confiabilidade, conforto e baixo custo de manutenção. Com motores 1.8 e 2.0, oferece uma condução suave e uma cabine bem equipada, sendo uma escolha popular entre motoristas que buscam durabilidade e eficiência.",
+            "path": "https://cdn.autopapo.com.br/box/uploads/2023/05/04162115/toyota-corolla-xei-2011-prata-frente-e-lateral.jpg"
+        },
+        {
+            "cor": "#945a3c",
+            "titulo": "Ford Focus 2010",
+            "FIPE": "Preço FIPE R$28,249",
+            "descricao": "O Ford Focus de 2010 é um hatchback compacto que combina desempenho dinâmico com um design elegante. Equipado com motores 1.6, 1.8 e 2.0, é conhecido por sua dirigibilidade esportiva e uma cabine bem-acabada, além de oferecer uma boa lista de equipamentos de segurança e tecnologia.",
+            "path": "https://cdn.autopapo.com.br/box/uploads/2024/01/30191939/ford-focus-hatch-2-0-glx-2009.jpg"
+        }
+        
+    ],
+
+    "list2":[
+        {
+            "cor": "#313439",
+            "titulo": "Gol 2011",
+            "FIPE": "Preço FIPE  R$ 26.763",
+            "descricao": "O Volkswagen Gol de 2011 é um hatchback compacto muito popular no Brasil, conhecido por sua durabilidade e baixo custo de manutenção. Equipado com motores 1.0 e 1.6, oferece uma condução ágil e econômica, ideal para o uso urbano e viagens curtas. Seu design simples e robusto é um dos fatores que contribuem para sua longevidade no mercado.",
+            "path": "https://blog.olhonocarro.com.br/wp-content/uploads/2023/06/volkswagen-gol-2011-g5-prateado-dianteira.jpg"
+        },
+        {   
+            "cor": "#64759b",
+            "titulo": "Uno 2011",
+            "FIPE": "Preço FIPE R$ 21.121",
+            "descricao": "O Fiat Uno de 2011 é um hatchback compacto que se destaca pelo design moderno e arrojado, além da economia de combustível. Com motores 1.0 e 1.4, oferece um desempenho adequado para o dia a dia e um interior prático e funcional. O Uno é apreciado por sua versatilidade e custo-benefício, sendo uma escolha popular entre os motoristas urbanos.",
+            "path": "https://cimbaju.com.br/wp-content/uploads/2024/03/Fiat-Uno-Mille-Economy-Way-2011-1-jpg.webp"
+        },
+        {
+            "cor": "#7d7d7f",
+            "titulo": "Celta 2011",
+            "FIPE": "Preço FIPE R$ 24.545",
+            "descricao": "O Chevrolet Celta de 2011 é um hatchback compacto, conhecido pela simplicidade e eficiência. Equipado com um motor 1.0, oferece uma boa economia de combustível e um custo de manutenção baixo. Seu design prático e interior funcional fazem dele uma opção acessível e confiável para motoristas que buscam um veículo econômico para uso diário.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje6XZbroWZy3AGr-o6MH_h0cSbxZEeaYuBAL6vy2q9LGwayCZj6hUCNsLSZOtjmnPIB4sLcZo4RlqxcuexK60i6YvqBTuJ4KxaFqE_nfH_XBpBPqENU-Q8N1D0FN4z_pRkl36hlwwVayll/s640/Chevrolet-Celta-2011.JPG"
+        },
+        {
+            "cor": "#7e7765",
+            "titulo": "Corsa Sedan 2011",
+            "FIPE": "Preço FIPE  R$ 26.889",
+            "descricao": "O Chevrolet Corsa Sedan de 2011 é um sedã compacto que combina economia com praticidade. Com motores 1.0 e 1.4, oferece uma condução suave e eficiente. O Corsa Sedan é valorizado pelo conforto interno, espaço no porta-malas e robustez, tornando-se uma opção popular entre famílias e motoristas que necessitam de um veículo confiável para o dia a dia.",
+            "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAgG2nzMuVK8N4aH3T5S5O069bcAycC10XcQ&s"
+        },
+        {
+            "cor": "#4e4c46",
+            "titulo": "Strada 2011",
+            "FIPE": "Preço FIPE R$ 33.427",
+            "descricao": "A Fiat Strada de 2011 é uma picape compacta que se destaca pela robustez e versatilidade. Disponível em várias configurações, incluindo cabine simples, estendida e dupla, oferece opções de motores 1.4 e 1.8, ideais para uso tanto urbano quanto rural. A Strada é conhecida por sua capacidade de carga e durabilidade, sendo uma escolha frequente entre pequenos empresários e agricultores.",
+            "path": "https://s2-autoesporte.glbimg.com/ssLmUuHN0ul4Nvol4wx8ihC6kMU=/0x0:620x400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/o/a/ILiAp7TruoadcBDlwnyA/2016-04-20-fiat-strada-adventure-cabine-estendida.jpg"
+        },
+        {
+            "cor": "#585858",
+            "titulo": "Palio 2011",
+            "FIPE": "Preço FIPE R$ 23.223",
+            "descricao": "O Fiat Palio de 2011 é um hatchback compacto, reconhecido pelo design moderno e pela economia de combustível. Equipado com motores 1.0 e 1.4, oferece uma condução confortável e prática para o dia a dia. O Palio é popular entre motoristas que buscam um veículo acessível e confiável, com um bom custo-benefício e manutenção simples.",
+            "path": "https://image1.mobiauto.com.br/images/api/images/v1.0/90007133/transform/"
+        },
+        {
+            "cor": "#131c2d",
+            "titulo": "Fox 2011",
+            "FIPE": "Preço FIPE R$ 28.929",
+            "descricao": "O Volkswagen Fox de 2011 é um hatchback compacto que se destaca pelo espaço interno e pela posição elevada de dirigir. Com motores 1.0 e 1.6, oferece uma condução ágil e eficiente. O Fox é valorizado pelo design prático, pela versatilidade e pelo conforto, sendo uma escolha popular entre famílias e jovens motoristas.",
+            "path": "https://blog.olhonocarro.com.br/wp-content/uploads/2023/07/image-42.jpeg"
+        },
+        {
+            "cor": "#58560c",
+            "titulo": "Siena 2011",
+            "FIPE": "Preço FIPE R$ 25.432",
+            "descricao": "O Fiat Siena de 2011 é um sedã compacto conhecido pelo conforto e pelo espaço interno. Equipado com motores 1.0 e 1.4, oferece uma condução eficiente e econômica. O Siena é apreciado por seu design elegante e pelo bom porta-malas, tornando-se uma opção popular entre famílias e motoristas que necessitam de um veículo prático e confiável para o dia a dia.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9GMTxxupdbHGvXRB_Uqu9ezc8WIhpkIRIr14k_L4-8zMqOhcezzsYPzRp06XRDIyH0Fo5xDE1MuesssgZXKN2r-uuf-poEB3n03hL2Vgs1-Vd3LDzI54pxgsVPkf4gs9VXEQBRaG50dZL/s1600/Novo-Siena-2011-ETORQ-3-prata.JPG"
+        }
+
+    ],
+
+    "list3":[
+        {
+            "cor": "#575b5c",
+            "titulo": "Saveiro 2012",
+            "FIPE": "Preço FIPE R$ 40.853",
+            "descricao": "A Volkswagen Saveiro de 2012 é uma picape compacta conhecida por sua robustez e versatilidade. Com opções de motores 1.6, oferece bom desempenho e capacidade de carga. A Saveiro é apreciada por sua confiabilidade e praticidade, sendo ideal para uso comercial e urbano.",
+            "path": "https://img2.icarros.com/dbimg/galeriaimgmodelo/1/778_1.jpg"
+        },
+        {
+            "cor": "#574a44",
+            "titulo": "Cobalt 2012",
+            "FIPE": "Preço FIPE  R$ 33.766",
+            "descricao": "O Chevrolet Cobalt de 2012 é um sedã compacto que se destaca pelo espaço interno generoso e pelo conforto. Equipado com motores 1.4 e 1.8, oferece uma condução suave e eficiente. O Cobalt é conhecido por sua robustez e boa relação custo-benefício.",
+            "path": "https://quatrorodas.abril.com.br/wp-content/uploads/2016/11/566af9d982bee174ca02acfccobalt-ltz-1-8-automatico-modelo-2012-da-chevrolet-durante-teste-comparativo-da-e1682648398775.jpeg?quality=70&strip=info"
+        },
+        {
+            "cor": "#0e0e0e",
+            "titulo": "Montana 2012",
+            "FIPE": "Preço FIPE R$ 28.200",
+            "descricao": "A Chevrolet Montana de 2012 é uma picape compacta que combina praticidade com desempenho. Com motor 1.4, oferece uma condução econômica e boa capacidade de carga. A Montana é valorizada por sua versatilidade e baixo custo de manutenção.",
+            "path": "https://www.tabelafipebrasil.com/site/images/FIPE/png/004370-2.png"
+        },
+        {
+            "cor": "#656774",
+            "titulo": "Hilux 2012",
+            "FIPE": "Preço FIPE R$ 107.623",
+            "descricao": "A Toyota Hilux de 2012 é uma picape média conhecida por sua durabilidade e capacidade off-road. Com opções de motores diesel e gasolina, oferece excelente desempenho e capacidade de carga. A Hilux é apreciada por sua robustez e confiabilidade, sendo ideal para trabalhos pesados e aventuras.",
+            "path": "https://fotos.jornaldocarro.estadao.com.br/wp/jornal-do-carro/files/2011/10/Hilux-ok.jpg"
+        },
+        {
+            "cor": "#526c83",
+            "titulo": "Voyage 2012",
+            "FIPE": "Preço FIPE R$ 30.047",
+            "descricao": "O Volkswagen Voyage de 2012 é um sedã compacto que se destaca pelo conforto e economia. Com motores 1.0 e 1.6, oferece uma condução eficiente e prática. O Voyage é conhecido por seu design moderno e espaço interno adequado para famílias.",
+            "path": "https://cdn.buttercms.com/X5deGLdjS8RclSSDIzWw"
+        },
+        {
+            "cor": "#615a50",
+            "titulo": "S10 2012",
+            "FIPE": "Preço FIPE R$ 53.000",
+            "descricao": "A Chevrolet S10 de 2012 é uma picape média que combina robustez com desempenho. Com motores 2.4 e 2.8 (diesel), oferece boa capacidade de carga e excelente desempenho em diversos terrenos. A S10 é valorizada por sua durabilidade e conforto.",
+            "path": "https://media.gm.com/dld/content/media/br/pt/chevrolet/vehicles/Chevrolet/pick-ups/s10/2012/jcr:content/photo.resize.jpg/1704910259077.jpg"
+        },
+        {
+            "cor": "#0e0e0e",
+            "titulo": "Punto 2012",
+            "FIPE": "Preço FIPE  R$ 29.220",
+            "descricao": "O Fiat Punto de 2012 é um hatchback compacto conhecido pelo design esportivo e desempenho dinâmico. Com opções de motores 1.4 e 1.6, oferece uma condução ágil e confortável. O Punto é apreciado por sua dirigibilidade e tecnologia embarcada.",
+            "path": "https://autossegredos.com.br/wp-content/webp-express/webp-images/uploads/2011/05/Fiat-Punto_Evo_2012-2.jpg.webp"
+        },
+        {
+            "cor": "#6e7580",
+            "titulo": "Prisma 2012",
+            "FIPE": "Preço FIPE R$ 27.300",
+            "descricao": "O Chevrolet Prisma de 2012 é um sedã compacto que oferece bom custo-benefício e economia de combustível. Equipado com motor 1.4, proporciona uma condução eficiente e prática. O Prisma é conhecido por seu espaço interno e confiabilidade.",
+            "path": "https://cdn.buttercms.com/SxfLxKcUSFyexQgQBtzz"
+        }
+        
+    ],
+
+    "list4":[
+        {
+            "cor": "#4c433c",
+            "titulo": "Gol 2013",
+            "FIPE": "Preço FIPE  R$ 29.500",
+            "descricao": "O Volkswagen Gol de 2013 é um hatchback compacto muito popular, conhecido por sua durabilidade e custo de manutenção baixo. Equipado com motores 1.0 e 1.6, oferece uma condução ágil e econômica. Seu design robusto e interior funcional fazem dele uma escolha confiável para uso diário.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYZv9B2GY1djEgpw7qfOsM1cirnMQrF3hD5tcmI2oBzxZQuFZ9l5dRj_qCKnayGXZ5q6CDhir8io0RH4cF_FiiWKiZEMWa8uG9p2CYJG-Bvjtk2-5fTXAvRjT4d5xhpuGg8oI5Pxm7iLFc/s1600/Novo-Gol-2013-Power.JPG"
+        },
+        {   
+            "cor": "#7c7d81",
+            "titulo": "Fiesta 2013",
+            "FIPE": "Preço FIPE R$ 33.000",
+            "descricao": "O Ford Fiesta de 2013 é um hatchback compacto que se destaca pelo design moderno e tecnologia embarcada. Com opções de motores 1.5 e 1.6, oferece uma condução dinâmica e eficiente. O Fiesta é conhecido pelo bom acabamento interno e pelos recursos de segurança avançados para a categoria.",
+            "path": "https://img1.icarros.com/dbimg/galeriaimgmodelo/2/3415_1"
+        },
+        {   
+            "cor": "#8da9b4",
+            "titulo": "Cross Fox 2013",
+            "FIPE": "Preço FIPE R$ 41.800",
+            "descricao": "O Volkswagen CrossFox de 2013 é um hatchback aventureiro que combina o design compacto com características off-road leves. Equipado com motor 1.6, oferece uma condução elevada e robusta. O CrossFox é apreciado pelo estilo diferenciado e pela versatilidade em terrenos variados.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixmFx-eCv0adlnUTiWQGlzkPGX2ulfddYp7GFtuPYG71PJzDgdu3HElY_lYiC2bLXYigi1iiWuY0UwTVytiylH2Y9fF7xUWbXw1Gskkm88NhqX04oyRcil7XXkPUPHmU-FvoEcVf-NmPNa/s1600/CrossFox-2013-branco.jpg"
+        },
+        {   
+            "cor": "#041d04",
+            "titulo": "Chevrolet Classic 2013",
+            "FIPE": "Preço FIPE R$ 26.200",
+            "descricao": "O Chevrolet Classic de 2013 é um sedã compacto que se destaca pela simplicidade e economia de combustível. Equipado com motor 1.0, oferece uma condução prática e econômica. O Classic é conhecido por seu baixo custo de manutenção e espaço interno adequado para famílias pequenas.",
+            "path": "https://image1.mobiauto.com.br/images/api/images/v1.0/65863732/transform/fl_progressive,f_webp,q_80"
+        },
+        {   
+            "cor": "#322118",
+            "titulo": "Chevrolet Cruze 2013",
+            "FIPE": "Preço FIPE R$ 50.000",
+            "descricao": "O Chevrolet Cruze de 2013 é um sedã médio que se destaca pelo design elegante e tecnologia avançada. Equipado com motor 1.8, oferece uma condução confortável e eficiente. O Cruze é apreciado pelo bom acabamento interno e pelos recursos de conectividade e segurança.",
+            "path": "https://s2-autoesporte.glbimg.com/Zs0mRN6oQS6kYU2hCOjMpJstIGc=/0x0:1024x768/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/W/v/nHSiQOQiOnmOpUkNOKfQ/chevrolet-cruze-br-spec-1.jpg"
+        },
+        {   
+            "cor": "#171717",
+            "titulo": "Reanult Clio 2013",
+            "FIPE": "Preço FIPE R$ 24.500",
+            "descricao": "O Renault Clio de 2013 é um hatchback compacto conhecido pela economia de combustível e praticidade. Equipado com motor 1.0, oferece uma condução ágil e econômica. O Clio é valorizado pelo design moderno e pelo baixo custo de manutenção.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIDLiRZWw26BRCiq8zEnumQzO0-s8ytW1hVU-_Lxq5nwrMXvUTRe2Qo_Qin53JNnkjoMaWEnr4bNHzNEHC2MDdOW82uv-H8OXDGWUXfoC53jSjRSD8rSEiaBVbzu-QIOcN8bXPuphsEwk/s1600/Novo-Clio-Expression-2013+(4).jpg"
+        },
+        {   
+            "cor": "#7a7c7b",
+            "titulo": "Jetta 2013",
+            "FIPE": "Preço FIPE  R$ 68.700",
+            "descricao": "O Volkswagen Jetta de 2013 é um sedã médio que combina desempenho e elegância. Com opções de motores 2.0 e 2.0 Turbo, oferece uma condução dinâmica e confortável. O Jetta é conhecido pelo bom acabamento interno, espaço generoso e tecnologia avançada.",
+            "path": "https://upload.wikimedia.org/wikipedia/commons/2/2b/VW_Jetta_1.6_TDI_Highline_%28VI%29_%E2%80%93_Frontansicht%2C_25._August_2013%2C_D%C3%BCsseldorf.jpg"
+        },
+        {   
+            "cor": "#0f1012",
+            "titulo": "Golf 2013",
+            "FIPE": "Preço FIPE R$ 85.000",
+            "descricao": "A Nissan Frontier de 2013 é uma picape média robusta, conhecida por sua durabilidade e capacidade off-road. Equipada com motor 2.5 Turbo Diesel, oferece excelente desempenho e capacidade de carga. A Frontier é apreciada pela confiabilidade e pelo conforto na cabine.",
+            "path": "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2024/202402/20240201/volkswagen-golf-1.6-mi-sportline-limited-edition-8v-flex-4p-manual-wmimagem17292772860.jpg?s=fill&w=249&h=186&q=70"
+        }       
+    ],
+
+    "list5":[
+        {
+            "cor": "#ea5050",
+            "titulo": "Palio 2014",
+            "FIPE": "Preço FIPE R$ 29.512",
+            "descricao": "O Fiat Palio é um hatch compacto conhecido por sua economia de combustível e versatilidade. Ideal para o uso urbano, oferece conforto e praticidade.",
+            "path": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2013/06/13/13192preview.jpg"
+        },
+        {   
+            "cor": "#b3b5b2",
+            "titulo": "Gol 2014",
+            "FIPE": "Preço FIPE R$ 27.635",
+            "descricao": "O Gol é um dos carros mais populares do Brasil, oferecendo confiabilidade, boa dirigibilidade e uma manutenção relativamente barata.",
+            "path": "https://www.seguroauto.org/wp-content/uploads/2014/02/novo-gol-2014.png"
+        },
+        {
+            "cor": "#74663a",
+            "titulo": "Strada 2014",
+            "FIPE": "Preço FIPE  R$ 38.550",
+            "descricao": "A Fiat Strada é uma picape leve e robusta, muito utilizada tanto para lazer quanto para o trabalho, destacando-se pela sua durabilidade e capacidade de carga.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn1HH2XKIClwEfCkZj8NRiF0r1GEdALlwMMOVHyh3ZVZv53HYlakB9yRNIVl6NogREXBZsuqEAFynGIzeJO_7f1gmRmRU-Sgpvq3qQImq-gaXKZ3xncsif1xJU-npwuFTgm4AhOeQFB79I/s1600/Nova-Strada-Adventure-2014+(3).jpg"
+        },
+        {
+            "cor": "#274c66",
+            "titulo": "Onix 2014",
+            "FIPE": "Preço FIPE R$ 34.597",
+            "descricao": "O Onix é um hatchback compacto da Chevrolet que se destaca pelo design moderno, tecnologia embarcada e conforto, sendo uma escolha popular entre os jovens.",
+            "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkxkRJrPYfsH2NQbqAtR9yAh0qXGo51b6OA&s"
+        },
+        {
+            "cor": "#232623",
+            "titulo": "HB20 2014",
+            "FIPE": "Preço FIPE R$ 38.450",
+            "descricao": "O Hyundai HB20 é um dos hatches compactos mais vendidos no Brasil, reconhecido pelo seu design arrojado, bom acabamento e pacote tecnológico atraente.",
+            "path": "https://image1.mobiauto.com.br/images/api/images/v1.0/219970947/transform/fl_progressive,f_webp,q_80"
+        },
+        {
+            "cor": "#808187",
+            "titulo": "Uno 2014",
+            "FIPE": "Preço FIPE R$ 25.679",
+            "descricao": "O Fiat Uno é conhecido por sua economia, praticidade e versatilidade, sendo uma ótima escolha para quem busca um carro urbano eficiente.",
+            "path": "https://image1.mobiauto.com.br/images/api/images/v1.0/316781046/transform/fl_progressive,f_webp,q_70,w_600"
+        },
+        {
+            "cor": "#3e3e3f",
+            "titulo": "Volkswagen Up 2014",
+            "FIPE": "Preço FIPE R$ 26.850",
+            "descricao": "O Up é um compacto da Volkswagen, oferecendo um design moderno, excelente consumo de combustível e dirigibilidade ágil, ideal para o ambiente urbano.",
+            "path": "https://lh5.googleusercontent.com/proxy/KaNKymogrVRFB-2_Vpcot1jvnQKIe4WiV4HFR6J-NzmtIfki2nZVwhdO_LpBNsIXIOaK1Z3p-RE31XWqVl5Drgg9UcZ5cwcJH7C6mJvubRSYwokF2QDE3gvv74mx3-xh_mnXP0SvS7Tzice6fIf7ixb1R-Udcr0"
+        },
+        {
+            "cor": "#777777",
+            "titulo": "Renault Duster 2014",
+            "FIPE": "Preço FIPE R$ 51.377",
+            "descricao": "O Renault Duster é um SUV compacto que combina robustez, espaço interno e uma posição de dirigir elevada, sendo uma boa opção tanto para a cidade quanto para aventuras off-road.",
+            "path": "https://portalhortolandia.com.br/wp-content/uploads/2024/04/duster.jpg"
+        }
+        
+    ],
+
+    "list6":[
+        {
+            "cor": "#153043",
+            "titulo": "Ford Ka 2015",
+            "FIPE": "Preço FIPE R$ 37.603",
+            "descricao": "O Ford Ka 2015 apresenta um design moderno e compacto, com linhas arrojadas e um estilo esportivo. Este modelo oferece um bom equilíbrio entre desempenho e economia de combustível, graças ao seu motor 1.0 de três cilindros. No interior, o Ford Ka 2015 é espaçoso e bem equipado, com destaque para o sistema de conectividade SYNC, que permite o controle de diversas funções do carro através de comandos de voz",
+            "path": "https://s2-autoesporte.glbimg.com/_m8gMBLP4jLQZdd-hyQA0J3-MBE=/0x0:620x400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/F/8/voPwVvR1iNNCM1vAdgBg/2015-12-01-novo-ford-ka.jpg"
+        },
+        {
+            "cor": "#8c8a7d",
+            "titulo": "Renault Clio 2015",
+            "FIPE": "Preço FIPE R$ 29.000",
+            "descricao": "Design Compacto e prático, com linhas simples e modernas. Possui Motor: 1.0, oferecendo boa economia de combustível. Seu interior é básico, mas funcional, ideal para quem busca um carro para uso urbano. Dentre seus destaques estão a boa relação custo-benefícioe e manutenção acessível.",
+            "path": "https://midias.vrum.com.br/_midias/jpg/2023/12/22/renault_clio_1_0_16v_modelo_2013_branco_de_traseira_estatico_no_asfalto-33654905.jpg"
+        },
+        {
+            "cor": "#638189",
+            "titulo": "Nissan March Active 2015",
+            "FIPE": "Preço FIPE R$ 32.500",
+            "descricao": "Design pequeno e ágil, com aparência jovem e urbana. Motor 1.0, conhecido por sua eficiência de combustível. Possui interior confortável e prático, com espaço adequado para um carro compacto.",
+            "path": "https://img1.icarros.com/dbimg/galeriaimgmodelo/2/19943_1"
+        },
+        {
+            "cor": "#8e9096",
+            "titulo": "Volkswagen Cross Up 2015",
+            "FIPE": "Preço FIPE R$ 39.000",
+            "descricao": "Estilo robusto e aventureiro, com detalhes exclusivos na versão Cross. Motor 1.0 TSI, oferecendo bom desempenho e eficiência. Possui interior bem acabado, com características que lembram utilitários. Dentre seus destaques está sua versatilidade para terrenos variados e economia de combustível",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLEWTq_DcNbRWnnwzQEJ5SX4unaAU_rePu5bk6sX-04IsQ-JqKiAT3xWY9JHXmzHS_eM6EmFExo6t3iO5AzI8NBZrWzpFK9BhVn5lQfdsAKHjKCJtFdxhRpw7eiraX6gnQtTqbK1kxZPSP/s1600/cross+up!%2B(23).jpg"
+        },
+        {
+            "cor": "#807d74",
+            "titulo": "Toyota Etios 1.3 Hatch 2015",
+            "FIPE": "Preço FIPE R$ 40.500",
+            "descricao": "O Toyota Etios 1.3 Hatch 2015 é um carro compacto que combina praticidade, economia e desempenho adequado para uso urbano. Equipado com um motor 1.3 litro de 4 cilindros, Dual VVT-i, entrega 90 cavalos de potência com etanol e 84 cv com gasolina.",
+            "path": "https://motorshow.com.br/wp-content/uploads/sites/2/2016/09/10_ms399_etios1.jpg"
+        },
+        {
+            "cor": "#665d54",
+            "titulo": "Ford New Fiesta 1.6 2015",
+            "FIPE": "Preço FIPE R$ 47.000",
+            "descricao": "Com motor 1.6, o New Fiesta 2015 é esportivo e ágil. Oferece um interior bem equipado e tecnologia avançada, proporcionando uma excelente experiência de condução.",
+            "path": "https://s2-autoesporte.glbimg.com/K_3fVzWehfsNmW2WLsXd6yOOUIw=/400x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/M/P/engEyVQ4S0pQ4AErbOqQ/2015-05-04-mg-6354.jpg"
+        },
+        {
+            "cor": "#2b1a10",
+            "titulo": "Citroën C3 1.5 2015",
+            "FIPE": "Preço FIPE R$ 37.500",
+            "descricao": "O C3 1.5 2015 combina estilo e conforto. Equipado com motor 1.5, oferece um bom desempenho e é conhecido por seu interior moderno e bem acabado.",
+            "path": "https://img1.icarros.com/dbimg/galeriaimgmodelo/2/18126_1.jpg"
+        },
+        {
+            "cor": "#2c393f",
+            "titulo": "Peugeot 208 1.5 2015",
+            "FIPE": "Preço FIPE R$ 38.000",
+            "descricao": "O 208 1.5 2015 é elegante e compacto, com motor 1.5 que oferece um equilíbrio entre desempenho e economia. Possui um interior sofisticado e várias funcionalidades tecnológicas.",
+            "path": "https://quatrorodas.abril.com.br/wp-content/uploads/2018/05/qr-642-carro-208-01-eps.jpg?quality=70&strip=info&w=720&crop=1"
+        }
+    ],
+
+    "list7":[
+        {
+            "cor": "#850505",
+            "titulo": "Honda HR-V 2016",
+            "FIPE": "Preço FIPE R$ 84.194",
+            "descricao": "O Honda HR-V é um SUV compacto com design moderno e linhas fluidas. Equipado com motor 1.8, oferece bom desempenho e eficiência. Seu interior é espaçoso e bem acabado, com painel digital e sistema de infotainment. Destaca-se pelo conforto, dirigibilidade e alta posição de dirigir, ideal para a cidade e viagens.",
+            "path": "https://cdn.autopapo.com.br/box/uploads/2023/04/26234211/honda-hr-v-exl-2015-vermelho-frente-e-lateral.jpg"
+        },
+        {
+            "cor": "#747371",
+            "titulo": "Jeep Renegade 2016",
+            "FIPE": "Preço FIPE R$ 64.734",
+            "descricao": "O Jeep Renegade possui um estilo robusto e icônico, inspirado em veículos off-road. As opções de motor 1.8 Flex e 2.0 Diesel oferecem bom desempenho em diversas condições. O interior é confortável e tecnológico, com materiais de qualidade e sistema Uconnect. Destaca-se pela capacidade off-road, segurança e versatilidade.",
+            "path": "https://cdn.buttercms.com/Q6q5yretSbaJ0JzISxqr"
+        },
+        {
+            "cor": "#615d58",
+            "titulo": "Hyundai HB20S 2016",
+            "FIPE": "Preço FIPE R$ 50.801",
+            "descricao": "O Hyundai HB20S é um sedã compacto com linhas elegantes e modernas. Os motores 1.0 e 1.6 são conhecidos por sua eficiência e economia de combustível. O interior é bem equipado, com bom espaço interno e acabamento de qualidade. Destaca-se pela confiabilidade, custo-benefício e tecnologia.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8deIqgiPkw5FyeprqbCABHpmIe5dl-ZItC4tldRzQAaJWIVT5455ZaQ8PIE74x47v6Taka13yO7ljBu7yKmQON4GcKktIW-x2L3WhAN9uL_NGorVNp4uPmzlY0rIXW7mwRV6BlSFNiKw/s1600/Novo+HB20S+%252831%2529.jpg"
+        },
+        {
+            "cor": "#566554",
+            "titulo": "Fiat Toro 2016",
+            "FIPE": "Preço FIPE R$ 88.411",
+            "descricao": "A Fiat Toro é uma picape média com design inovador e estilo robusto. Oferece opções de motor 1.8 Flex e 2.0 Diesel, proporcionando boa performance e versatilidade. Seu interior é espaçoso e confortável, com boa capacidade de carga e tecnologia embarcada. Destaca-se pela versatilidade, design e capacidade de carga.",
+            "path": "https://s2-autoesporte.glbimg.com/pyrmg0IVLWZlk3jarYiGs3e4WKY=/0x0:620x400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/Y/T/VxIiuXTfCdbbkqry2kqQ/2016-02-15-img-1259.jpg"
+        },
+        {
+            "cor": "#6c6b67",
+            "titulo": "Volkswagen Saveiro 2016",
+            "FIPE": "Preço FIPE R$70,261",
+            "descricao": "A Volkswagen Saveiro é uma picape compacta com estilo moderno e esportivo. Seus motores 1.6 são conhecidos pela durabilidade e bom desempenho. O interior é funcional e confortável, com bom espaço para uma picape compacta. Destaca-se pela robustez, praticidade e custo-benefício.",
+            "path": "https://grupogerents.com.br/uploads/fotos_veiculos/20220519_nd3a2efc.jpeg"
+        },
+        {
+            "cor": "#2c281f",
+            "titulo": "Fiat Grand Siena 2016",
+            "FIPE": "Preço FIPE R$41,325",
+            "descricao": "O Fiat Siena, também conhecido como Grand Siena, é um sedã compacto com design simples e funcional. Disponível com motores 1.0, 1.4 e 1.6, oferece boas opções de desempenho e economia. Seu interior é espaçoso e prático, com foco em conforto e custo-benefício. Destaca-se pelo espaço interno, economia de combustível e manutenção acessível.",
+            "path": "https://img0.icarros.com/dbimg/galeriaimgmodelo/2/36868_1.jpg"
+        },
+        {
+            "cor": "#98a7a0",
+            "titulo": "Fiat Mobi 2016",
+            "FIPE": "Preço FIPE de R$35.318 até R$76.170 ",
+            "descricao": "O Fiat Mobi é um subcompacto com design moderno e compacto, ideal para uso urbano. Equipado com motor 1.0, foca em eficiência e economia de combustível. O interior é compacto, mas bem aproveitado, com funcionalidades práticas para o dia a dia. Destaca-se pela economia, praticidade e agilidade no trânsito urbano.",
+            "path": "https://s2.glbimg.com/IStjZSawKpdLSDxLUt9jdOG0zSU=/620x465/s.glbimg.com/jo/g1/f/original/2016/12/05/imagem6.jpg"},
+        {
+            "cor": "#404353",
+            "titulo": "Honda Civic 2016",
+            "FIPE": "Preço FIPE R$ 74.558",
+            "descricao": "O Honda Civic é um sedã médio com design esportivo e elegante. Equipado com motores 1.8 e 2.0, é conhecido pelo bom desempenho e eficiência. Seu interior é espaçoso e sofisticado, com tecnologia avançada e materiais de alta qualidade. Destaca-se pelo conforto, desempenho e tecnologia, além de uma ótima reputação de confiabilidade.",
+            "path": "https://s2-autoesporte.glbimg.com/BfhZpy3-50ebgNit1GGsIncF2eQ=/0x0:620x400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/U/g/powtbBSZ22RZT1mrRNzA/2015-02-13-2d8a7899lr.jpg"
+        }
+    ],
+
+    "list8":[
+        {
+            "cor": "#597487",
+            "titulo": "Corolla 2017",
+            "FIPE": "Preço FIPE R$ 90.291",
+            "descricao": "O Toyota Corolla 2017 é um sedã médio com design elegante e refinado. Equipado com motores 1.8 e 2.0, oferece uma combinação de bom desempenho e eficiência de combustível. O interior é espaçoso e confortável, com materiais de alta qualidade e tecnologia avançada, incluindo um sistema de infotainment moderno. Destaca-se pela confiabilidade, segurança e conforto, sendo uma das escolhas preferidas no segmento de sedãs médios.",
+            "path": "https://s2-autoesporte.glbimg.com/tZMOJqnzHzl1Q55Aa5tQzOt3GXo=/0x0:1895x1065/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2022/F/P/4iynHKSlGdd5dQHOcUNw/sem-titulo-1-.jpg"
+        },
+        {
+            "cor": "#b8bcbf",
+            "titulo": "Jeep Compass 2017",
+            "FIPE": "Preço FIPE R$ 86.828",
+            "descricao": "O Jeep Compass 2017 é um SUV com design robusto e sofisticado. Disponível com motores 2.0 Flex e 2.0 Diesel, oferece boa performance tanto em uso urbano quanto off-road. O interior é bem acabado, com materiais de qualidade, conforto e tecnologia, incluindo o sistema Uconnect. Destaca-se pela versatilidade, capacidade off-road e segurança, além de oferecer uma condução confortável e ágil.",
+            "path": "https://www.autoo.com.br/fotos/2016/11/632_474/jeep_compass_2017_1_18112016_4530_632_474.jpg"
+        },
+        {
+            "cor": "#817d77",
+            "titulo": "Fiat Argo 2017",
+            "FIPE": "Preço FIPE R$ 52.507",
+            "descricao": "O Fiat Argo 2017 é um hatchback compacto com design moderno e atraente. Equipado com motores 1.0, 1.3 e 1.8, oferece uma gama de opções que equilibram desempenho e economia de combustível. O interior é bem acabado, com bom espaço interno e tecnologia embarcada, como a central multimídia Uconnect. Destaca-se pelo custo-benefício, conforto e estilo.",
+            "path": "https://www.automaxfiat.com.br/wp-content/uploads/2020/04/imagem-2-e1502298457425-1024x668.jpg"
+        },
+        {
+            "cor": "#404041",
+            "titulo": "Renault Logan 2017",
+            "FIPE": "Preço FIPE R$ 44.502",
+            "descricao": "O Renault Logan 2017 é um sedã compacto com design simples e funcional. Equipado com motores 1.0 e 1.6, oferece boa economia de combustível e desempenho adequado para uso urbano e rodoviário. O interior é espaçoso e prático, com foco em conforto e baixo custo de manutenção. Destaca-se pelo amplo espaço interno, economia e manutenção acessível.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3DMz7HYVgn4q5Hb5glTlt4VPgcjYyk-uKtiCQa1JuGToosmiNueJFx8fVMqBNPsy0EFxfRuVP_OU_5hhhQTp3VtJwOnBBeFp9vjLXYTXPBjbuOdptK1Tp9kViJ8f6KXYuBdKQKKAdVrg/s1600/logan-1.6-sce--4-001.jpg"
+        },
+        {
+            "cor": "#64645b",
+            "titulo": "Renault Kwid 2017",
+            "FIPE": "Preço FIPE R$ 49.225",
+            "descricao": "O Renault Kwid 2017 é um subcompacto com design robusto e compacto, ideal para uso urbano. Equipado com motor 1.0, oferece excelente eficiência de combustível e agilidade no trânsito. O interior é prático, com espaço bem aproveitado e funcionalidades básicas. Destaca-se pelo baixo custo de aquisição, economia de combustível e praticidade.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgeNoU3vfM_VVQwCBqXsGfoO5p-O3NWCYg8o7Wgvhboa5r2pkeKmUrQv1zOaE_WXTDMlgxSiRVClSgRl_ISks7SS9fI69VF7Ee9ft6VbiiUi55gphjqfo-Eqnox975rYbL35CAbPDcUisJ/s1600/Renault-Kwid-2018+%25282%2529.jpg"
+        },
+        {
+            "cor": "#3c4a38",
+            "titulo": "Chevrolet Cruze Sedan 2017",
+            "FIPE": "Preço FIPE R$ 84.832",
+            "descricao": "O Chevrolet Cruze Sedan 2017 é um sedã médio com design elegante e moderno. Equipado com motor 1.4 turbo, oferece bom desempenho e eficiência de combustível. O interior é espaçoso e bem acabado, com tecnologia avançada, incluindo sistema MyLink e conectividade total. Destaca-se pelo desempenho, conforto e tecnologia, além de oferecer uma condução suave e agradável.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY_AAZs69dAWpEZk1j2Iome_ckKA4jK2QGCLyWCGannMUrkvW6_dbBQ4Y5b-K6WMPHSQuGkJuw7XJgJ-VrQ52DTuHCjpw0Hz60ATsuF-K-g0JPKxGKhLcNP2Xfe0V9N_lVRR-LFeN5TzQ/s1600/Novo-Chevrolet-Cruze-2017+%25283%2529.jpg"
+        },
+        {
+            "cor": "#1f2016",
+            "titulo": "Volkswagen Amarok 2017",
+            "FIPE": "Preço FIPE R$ 138.254",
+            "descricao": "A Volkswagen Amarok 2017 é uma picape média com design robusto e sofisticado. Disponível com motores 2.0 TDI e 3.0 V6 TDI, oferece excelente desempenho e capacidade de carga. O interior é espaçoso e confortável, com materiais de alta qualidade e tecnologia avançada, incluindo sistema de infotainment e assistências de condução. Destaca-se pela robustez, capacidade off-road e conforto.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHKVbQobYiFryCF82ePmnhm9ZRCiYujtRmgrc6S_BwIwiyb79dAQ7ChAMtjiIm_MuJ6NPd6bmeFrexcPXv3_sOMMmf0ZTnr1EYEsHYUDGFo9D_TQYe8bgr0CkkmpbgQARlT-9kaVjh-GA/s1600/VW-Amarok-2017-Highline+%252832%2529.JPG"
+        },
+        {
+            "cor": "#556475",
+            "titulo": "Volkswagen Polo 2017",
+            "FIPE": "Preço FIPE R$ 74.316",
+            "descricao": "O Volkswagen Polo 2017 é um hatchback compacto com design moderno e esportivo. Equipado com motores 1.0, 1.6 e 1.0 TSI, oferece uma combinação de bom desempenho e eficiência de combustível. O interior é bem acabado, com boa qualidade de materiais e tecnologia embarcada, como a central multimídia Composition Touch. Destaca-se pelo desempenho, conforto e tecnologia, além de oferecer uma experiência de condução dinâmica e agradável.",
+            "path": "https://cdn.motor1.com/images/mgl/8m4X2/s1/4x3/comparativo-vw-polo-x-fiat-argo-x-honda-fit-x-peugeot-208.webp"
+        }   
+    ],
+
+    "list9":[
+        {
+            "cor": "#867f7b",
+            "titulo": "Hyundai Creta 2018",
+            "FIPE": "Preço FIPE R$ 74.990",
+            "descricao": "O Hyundai Creta 2018 é um SUV compacto com design moderno e robusto. Equipado com motores 1.6 e 2.0, oferece boas opções de desempenho e eficiência. O interior é espaçoso e bem acabado, com diversas tecnologias, incluindo central multimídia com tela sensível ao toque. Destaca-se pelo conforto, segurança e boa posição de dirigir, sendo ideal tanto para uso urbano quanto para viagens.",
+            "path": "https://image1.mobiauto.com.br/images/api/images/v1.0/219793979/transform/fl_progressive,f_webp,q_80"
+
+        },
+        {
+            "cor": "#887348",
+            "titulo": "Nissan Kicks 2018",
+            "FIPE": "Preço FIPE R$ 70.790",
+            "descricao": "O Nissan Kicks 2018 é um SUV compacto conhecido por seu design elegante e estilo contemporâneo. Equipado com motor 1.6, oferece um desempenho equilibrado e excelente economia de combustível. O interior é bem desenhado, com materiais de boa qualidade e tecnologia avançada, como o sistema de infotainment com tela sensível ao toque e câmera 360 graus. Destaca-se pelo conforto, economia e conjunto tecnológico.",
+            "path": "https://www.autoo.com.br/fotos/2017/7/1280_960/nissan_kicks_2018_1_06072017_6496_1280_960.jpg"
+
+        },
+        {
+            "cor": "#303871",
+            "titulo": "Volkswagen Virtus 2018",
+            "FIPE": "Preço FIPE R$ 68.990",
+            "descricao": "O VW Virtus 2018 é um sedã compacto com design moderno e linhas elegantes. Equipado com motores 1.6 MSI e 1.0 TSI, oferece boas opções de desempenho e eficiência de combustível. O interior é espaçoso e bem acabado, com destaque para a central multimídia com tela sensível ao toque e diversas funcionalidades. Destaca-se pelo espaço interno, tecnologia e desempenho dinâmico.",
+            "path": "https://portallubes.com.br/wp-content/uploads/2017/11/volkswagen-virtus-2018.jpg"
+
+        },
+        {
+            "cor": "#5b382e",
+            "titulo": "Toyota Hilux 2018",
+            "FIPE": "Preço FIPE R$ 151.490",
+            "descricao": "A Toyota Hilux 2018 é uma picape média com design robusto e imponente. Disponível com motores 2.8 turbo diesel e 2.7 flex, oferece excelente desempenho e durabilidade. O interior é confortável e bem equipado, com tecnologias avançadas e materiais de alta qualidade. Destaca-se pela robustez, capacidade off-road e confiabilidade, sendo uma escolha popular para uso tanto urbano quanto rural.",
+            "path": "https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/uploads/2018/07/29172640/toyota-hilux-071217-raw-444.jpg"
+
+        },
+        {
+            "cor": "#453f3e",
+            "titulo": "Ford Ka Sedan 2018",
+            "FIPE": "Preço FIPE R$ 47.490",
+            "descricao": "O Ford Ka Sedan 2018 é um sedã compacto com design moderno e funcional. Equipado com motores 1.0 e 1.5, oferece bom desempenho e eficiência de combustível. O interior é espaçoso e bem desenhado, com tecnologias como central multimídia com tela sensível ao toque e comandos de voz. Destaca-se pelo custo-benefício, economia e praticidade para o uso diário.",
+            "path": "https://s2-autoesporte.glbimg.com/WFrBOaf8_FQBeSDWnbPMg7HzPAA=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/a/R/aakUmYQfAKkDd0pOHhaQ/2018-07-24-ford-ka-sedan-autoesporte-12.jpg"
+
+        },
+        {
+            "cor": "#17464e",
+            "titulo": "Fiat Cronos 2018",
+            "FIPE": "Preço FIPE R$ 53.490",
+            "descricao": "O Fiat Cronos 2018 é um sedã compacto com design elegante e contemporâneo. Equipado com motores 1.3 e 1.8, oferece boas opções de desempenho e eficiência. O interior é bem acabado, com espaço generoso e tecnologia embarcada, incluindo central multimídia com tela sensível ao toque. Destaca-se pelo conforto, design e tecnologia, sendo uma opção atrativa no segmento de sedãs compactos.",
+            "path": "https://cdn.motor1.com/images/mgl/JWypM/s1/fiat-cronos.jpg"
+        },
+        {
+            "cor": "#545d64",
+            "titulo": "Nissan Versa 2018",
+            "FIPE": "Preço FIPE R$ 53.190",
+            "descricao": "O Nissan Versa 2018 é um sedã compacto com design simples e funcional. Equipado com motor 1.6, oferece um desempenho equilibrado e boa economia de combustível. O interior é espaçoso, com foco no conforto e na praticidade, incluindo uma central multimídia com tela sensível ao toque em versões mais equipadas. Destaca-se pelo amplo espaço interno, conforto e custo-benefício.",
+            "path": "https://lh4.googleusercontent.com/proxy/jtQ3CohLNX_vWdvASZp7g3LleLR_wPyxB7mLc4PzdrpaqT4UJNdRimy94ynumzkVdy5brA2vBdWCtVznXutuM1GcVaOZXlnU1Z-q5BJZ_jL_Ls05Ib3xVtDg3gLETB5nbbG0"
+        },
+        {
+            "cor": "#313333",
+            "titulo": "Chevrolet Cobalt 2018",
+            "FIPE": "Preço FIPE R$ 56.490",
+            "descricao": "O Chevrolet Cobalt 2018 é um sedã compacto com design tradicional e funcional. Equipado com motor 1.8, oferece bom desempenho e economia de combustível razoável. O interior é espaçoso e confortável, com materiais de qualidade e tecnologia como a central multimídia MyLink. Destaca-se pelo espaço interno, conforto e robustez, sendo uma escolha popular para famílias e uso urbano.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtW4PmRPcEmJtyjMJZP4-8UyzSvgmkwkHO3U2zz72O-oEXfBKwFY_mNlH1bjGjfx3C1nULGQub3xRlVjEaES4_1Qohv5e9CgA_CD21ifrUhAvhXP0mRKBk0-JLjYwhbq3BTBDZacPslG4/s1600/Cobalt-2018+%25281%2529.jpg"
+        }
+    ],
+
+    "list10":[
+        {
+            "cor": "#5f0708",
+            "titulo": "Toyota Yaris HB 2019",
+            "FIPE": "Preço FIPE R$ 57.290,00",
+            "descricao": "O Toyota Yaris HB é um hatchback compacto que se destaca pelo seu design elegante e moderno, oferecendo eficiência de combustível e um interior confortável. É ideal para quem busca um carro econômico e confiável para uso urbano.",
+            "path": "https://image1.mobiauto.com.br/images/api/images/v1.0/12438112/transform/fl_progressive,f_webp,q_80"
+
+        },
+        {
+            "cor": "#61423c",
+            "titulo": "Volkswagen T-Cross 2019",
+            "FIPE": "Preço FIPE R$ 79.490",
+            "descricao": "O Volkswagen T-Cross é um SUV compacto projetado para oferecer versatilidade e estilo. Com um interior espaçoso e tecnologia avançada, o T-Cross combina praticidade urbana com conforto e segurança, sendo uma escolha popular entre os consumidores que buscam um veículo moderno para diversas necessidades.",
+            "path": "https://cdn.autopapo.com.br/box/uploads/2019/07/22133950/frente-volkswagen-t-cross.jpg"
+
+        },
+        {
+            "cor": "#66776b",
+            "titulo": "Ford EcoSport 2019",
+            "FIPE": "Preço FIPE R$ 63.990",
+            "descricao": "O Ford EcoSport é um SUV conhecido por sua altura elevada do solo e design robusto. Com capacidade para enfrentar diferentes tipos de terreno, o EcoSport oferece conforto e economia de combustível, sendo uma opção versátil tanto para uso diário quanto para aventuras ao ar livre.",
+            "path": "https://s2-autoesporte.glbimg.com/28mqaEquoFg64LJzdGLIalI57Uw=/149x63:1824x1101/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/L/B/njkdZhQOyIa8QTmf1MFw/20190130-135653-.jpg"
+
+        },
+        {
+            "cor": "#1f0409",
+            "titulo": "Renault Captur 2019",
+            "FIPE": "Preço FIPE R$ 59.490",
+            "descricao": "O Renault Captur é um SUV urbano que combina estilo europeu com funcionalidade. Destaca-se pelo seu design elegante e interior espaçoso, proporcionando uma experiência de condução suave e eficiente, ideal para quem busca um veículo confortável e moderno para a cidade.",
+            "path": "https://s2-autoesporte.glbimg.com/cGQtl39v6D6feZFEHQD1jFhLNgA=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/o/l/YLan2SRbCm8CAABKAsjA/2019-10-18-renault-captur-bose-007-nyoe93p.jpg"
+
+        },
+        {
+            "cor": "#706d71",
+            "titulo": "Chevrolet Onix Plus 2019",
+            "FIPE": "Preço FIPE R$ 54.290",
+            "descricao": "O Chevrolet Onix Plus, também conhecido como Prisma, é um sedan compacto que oferece um equilíbrio entre desempenho, economia de combustível e tecnologia. Com um design aerodinâmico e um interior bem equipado, o Onix Plus é uma escolha popular para quem procura um carro acessível e confortável para viagens urbanas.",
+            "path": "https://s2-autoesporte.glbimg.com/GMkBWk5tTVDM4LxdfC7aTaz511I=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/m/0/XfbVibQ1emTTQYBlt12A/2019-11-04-onixrfrente.jpg"
+
+        },
+        {
+            "cor": "#545e5e",
+            "titulo": "Ford Ranger 2019",
+            "FIPE": "Preço FIPE R$ 134.490",
+            "descricao": "A Ford Ranger é uma picape média reconhecida por sua robustez e capacidade de carga. Com um design robusto e opções de motorização potentes, a Ranger é ideal para quem precisa de um veículo resistente e versátil, adequado para trabalho pesado ou aventuras off-road.",
+            "path": "https://www.karvi.com.br/blog/wp-content/uploads/2020/11/Ford-Ranger-2019-prata-850x525.jpg"
+
+        },
+        {
+            "cor": "#333844",
+            "titulo": "Fiat Fiorino 2019",
+            "FIPE": "Preço FIPE R$ 52.490",
+            "descricao": "A Fiat Fiorino é uma van compacta projetada para oferecer agilidade urbana e capacidade de carga. Ideal para uso comercial, a Fiorino combina economia de combustível com espaço de carga eficiente, sendo uma escolha popular entre os profissionais que realizam entregas urbanas.",
+            "path": "https://www.chavesnamao.com.br/imn/0500x0350/N/veiculos/101293/1949918/fiat-fiorino-1-0-furgao-8v-2p_f341678ebe3.jpeg"
+
+        },
+        {
+            "cor": "#131616",
+            "titulo": "Chevrolet Tracker 2019",
+            "FIPE": "Preço FIPE R$ 73.590",
+            "descricao": "O Chevrolet Tracker é um SUV compacto que se destaca pelo seu design esportivo e tecnologia avançada. Com um interior confortável e espaço versátil, o Tracker oferece desempenho eficiente e segurança, sendo uma opção atrativa para quem busca um veículo moderno e prático para o dia a dia.",
+            "path": "https://media.gm.com/content/media/br/pt/chevrolet/vehicles/Chevrolet/suvs/tracker/2019/_jcr_content/mediaVehiclePar/image.img.jpg/1536935230382.jpg"
+
+        }
+        
+    ],
+
+    "list11":[
+        {
+            "cor": "#12212f",
+            "titulo":"Porsche 911 2020",
+            "FIPE": "Preço FIPE R$ 769.000",
+            "descricao": "Ícone dos carros esportivos, o Porsche 911 combina desempenho impressionante com luxo. Equipado com um motor turbo de 6 cilindros, oferece uma experiência de condução emocionante.",
+            "path": "https://cdn.autopapo.com.br/box/uploads/2018/12/03182504/porsche-911-carrera-4s-12.jpg"
+        },
+        {   
+            "cor": "#617794",
+            "titulo": "BMW M2 Competition 2020",
+            "FIPE": "Preço FIPE R$ 410.000",
+            "descricao": "Conhecido por seu desempenho ágil e design compacto, o BMW M2 Competition é alimentado por um motor turbo de 3.0 litros e oferece uma direção precisa.",
+            "path": "https://s2-autoesporte.glbimg.com/89--FvyyttJaLge8wem2AFJaUH8=/0x0:1024x685/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/J/P/VBG09yQt2rKujLVAkTfQ/bmw-m2-competition-5-0111014f0c51083e.jpg"
+        },
+        {   
+            "cor": "#3c646c",
+            "titulo":"Audi RS Q3 2020",
+            "FIPE": "Preço FIPE R$ 385.000",
+            "descricao": "Com um motor de 2.5 litros turbo, o Audi RS Q3 é um SUV compacto esportivo que combina praticidade com alta performance e um design agressivo.",
+            "path": "https://s2-autoesporte.glbimg.com/CFJAhaVDMTThy_sRz2srJV-VCec=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/V/G/19Lji2RhGT01T9luoe9Q/2020-05-18-q3-abt-3.jpg"
+        },
+        {
+            "cor": "#273243",
+            "titulo":"Mercedes-AMG GT 2020",
+            "FIPE": "Preço FIPE R$ 1.200.000",
+            "descricao": "Um dos carros mais emblemáticos da Mercedes-AMG, o GT oferece um design aerodinâmico e um motor V8 biturbo, proporcionando uma experiência de condução de alto desempenho.",
+            "path": "https://p.turbosquid.com/ts-thumb/bs/PRNtrC/qi3eWOuH/mercedes_amg_gt_2020_0000/jpg/1546603884/600x600/fit_q87/8fbe3bff922cb1ba71771d6678f06d5083c97b76/mercedes_amg_gt_2020_0000.jpg"},
+        {   
+            "cor": "#414a4e",
+            "titulo":"Ford Mustang 2020",
+            "FIPE": "Preço FIPE R$ 315.000",
+            "descricao": "O Ford Mustang é um clássico americano com um motor V8 de 5.0 litros, conhecido por sua potência bruta e estilo marcante.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqVb1F3tJaX9XOfjXsei5XNm6la6dy2GvBcfMsFZOJXKcAp2J0sl4Pj_KCUyTWKwnwkTXTVKmn36NFa0CQ9ppDr8_FvTv6RPNz3UcFYZzYAfVWMuthIDx_TqDKf-JlD4D3OFy3a_VYyqKR/s1600/Ford-Mustang-Shelby2020+%252816%2529.jpg"
+        },
+        {
+            "cor": "#493828",
+            "titulo":"Chevrolet Camaro 2020",
+            "FIPE": "Preço FIPE R$ 392.000",
+            "descricao": "Com um motor V8 de 6.2 litros, o Camaro é conhecido por seu desempenho robusto e design musculoso, sendo uma escolha popular entre os entusiastas de carros esportivos.",
+            "path": "https://cdn.motor1.com/images/mgl/jGwEy/s1/4x3/2020-chevrolet-camaro-lt1.webp"},
+        {   
+            "cor": "#393537",
+            "titulo":"Audi RS5 2020",
+            "FIPE": "Preço FIPE R$ 555.000",
+            "descricao": "O Audi RS5 combina luxo e performance com um motor V6 biturbo, tração integral Quattro e um design elegante e esportivo.",
+            "path": "https://image1.mobiauto.com.br/images/api/images/v1.0/62686551/transform/fl_progressive,f_webp,q_80"
+        },
+        {
+            "cor": "#15150d",
+            "titulo":"Audi A6 2020",
+            "FIPE": "Preço FIPE R$ 261.362",
+            "descricao": "Oferece uma condução suave e potente, com opções de motorização que vão de um 2.0 TFSI a um 3.0 V6 TFSI, além de versões híbridas. A tração integral Quattro está disponível em algumas versões. É um sedã executivo de luxo que combina elegância, desempenho e tecnologia avançada. Este modelo é conhecido por seu design sofisticado, interior espaçoso e acabamento premium",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUtGuKqmmQNFgSY6xTTTcVesQHvhr6GQIQwuoYzM2hkgegiHPPdqhImCSRwGFXVf0pBA963ZM1rxamvvUST5pkqoOzv7B0uDbg5jXJx65-OFaO6rt0Do1UtdOrzZCSgZbanS7S0f76ixd0/s1600/Audi-A6-2020-Brasil+%252823%2529.jpg"
+        }
+        
+    ],
+    "list12":[
+        {   
+            "cor": "#181815",
+            "titulo":"Volkswagen Virtus Highline 2021",
+            "FIPE": "Preço FIPE R$ 110.000",
+            "descricao": "O Virtus Highline é a versão topo de linha do sedã compacto da Volkswagen. Ele oferece um motor 1.0 TSI de 128 cv, câmbio automático de 6 marchas, e uma cabine espaçosa com acabamentos de qualidade.",
+            "path": "https://quatrorodas.abril.com.br/wp-content/uploads/2018/01/qr-705-car-virtus-2252-e1516729338174.jpg?quality=70&strip=info"
+        },
+        {   
+            "cor": "#515755",
+            "titulo":"Fiat Pulse Impetus 2021",
+            "FIPE": "Preço FIPE R$ 125.000",
+            "descricao": "O Pulse Impetus é a versão topo de linha do SUV compacto da Fiat. Equipado com motor 1.0 Turbo de 130 cv e câmbio CVT, oferece um design moderno, alta tecnologia e bom espaço interno.",
+            "path": "https://production.autoforce.com/uploads/picture/image/163203034/used_model_webp_comprar-pulse-1-0-turbo-200-impetus-1273_f28af9184a.jpg.webp"
+        },
+        {
+            "cor": "#51554d",
+            "titulo":"Volkswagen Polo Highline 2021",
+            "FIPE": "Preço FIPE R$ 105.000",
+            "descricao": "O Polo Highline é a versão mais equipada do hatch compacto da Volkswagen. Conta com motor 1.0 TSI de 128 cv, câmbio automático de 6 marchas, e um interior bem acabado com vários recursos tecnológicos.",
+            "path": "https://www.autoo.com.br/fotos/2017/9/1280_960/volkswagen_polo_2018_1_27092017_7392_1280_960.jpg"
+        },
+        {
+            "cor": "#5a594d",
+            "titulo":"Chevrolet Onix Plus 2021",
+            "FIPE": "Preço FIPE R$ 85.000",
+            "descricao": "O Onix Plus é a versão sedã do popular hatch da Chevrolet. Com motor 1.0 Turbo de 116 cv e câmbio automático de 6 marchas, oferece bom consumo de combustível, conforto e tecnologia.",
+            "path": "https://evoyconsorcios.com.br/images/uploads/gallery/chevrolet-2021-onix-premier-8403_1650468742.jpg"},
+        {
+            "cor": "#2e3a45",
+            "titulo":"Toyota Corolla Cross 2021",
+            "FIPE": "Preço FIPE R$ 175.000",
+            "descricao": "O Corolla Cross é o SUV médio da Toyota, derivado do sedã Corolla. Disponível com motor 2.0 aspirado de 177 cv ou híbrido, oferece conforto, tecnologia e confiabilidade.",
+            "path": "https://quatrorodas.abril.com.br/wp-content/uploads/2024/02/2024-Toyota-Corolla-Cross-facelift-Thailand-5-1.jpg?quality=70&strip=info&w=720&h=440&crop=1"},
+        {
+            "cor": "#1a2732",
+            "titulo":"Hyundai HB20 2021",
+            "FIPE": "Preço FIPE R$ 80.000",
+            "descricao": "O Hyundai HB20 é um dos compactos mais vendidos no Brasil. Com várias versões, a mais equipada tem motor 1.0 Turbo de 120 cv, câmbio automático de 6 marchas, e uma cabine moderna.",
+            "path": "https://s2-autoesporte.glbimg.com/op0Shd2roKilz0FoEFJGx7twK9Q=/0x0:2929x1946/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2021/J/l/hrJchjTGmmxpNL5qOC0Q/hyundai-hb20-diamond-plus-2020-grey-metallic-594050-3840x2160.jpg"},
+        {
+            "cor": "#4c5967",
+            "titulo":"Caoa Chery Tiggo 3x 2021",
+            "FIPE": "Preço FIPE R$ 95.000",
+            "descricao": "O Tiggo 3x é um SUV compacto da Caoa Chery. Com motor 1.0 Turbo de 102 cv e câmbio CVT, oferece um bom pacote de equipamentos, design moderno e um custo-benefício atrativo.",
+            "path": "https://cdn.motor1.com/images/mgl/VAlGG/s3/caoa-chery-tiggo-3x-turbo.jpg"},
+        {
+            "cor": "#2f5790",
+            "titulo":"Volkswagen Taos 2021",
+            "FIPE": "Preço FIPE R$ 185.000",
+            "descricao": "O Taos é o SUV médio da Volkswagen, com motor 1.4 TSI de 150 cv e câmbio automático de 6 marchas. Oferece espaço interno generoso, boa tecnologia e segurança.",
+            "path": "https://cdn.motor1.com/images/mgl/Y0wYl/s1/volkswagen-taos-2021.jpg"}
+
+    ],
+    "list13":[
+        {
+            "cor": "#535353",
+            "titulo":"Ford Maverick 2022",
+            "FIPE": "Preço FIPE R$ 240.000",
+            "descricao": "A Ford Maverick é uma picape compacta que combina a praticidade de um caminhão com o conforto de um SUV. Possui motor 2.0 Turbo de 253 cv, câmbio automático de 8 marchas e tração integral, além de uma cabine espaçosa e bem equipada.",
+            "path": "https://img.odcdn.com.br/wp-content/uploads/2021/06/548d0e30-c83e-11eb-bf42-53291797875f.jpeg"},
+        {
+            "cor": "#475139",
+            "titulo":"Kwid E-Tech 2022",
+            "FIPE": "Preço FIPE R$ 150.000",
+            "descricao": "O Renault Kwid E-Tech é a versão elétrica do compacto Kwid. Oferece um motor elétrico com autonomia de aproximadamente 300 km, além de um design moderno e economia de energia.",
+            "path": "https://portallubes.com.br/wp-content/uploads/2022/05/renault-kwid-e-tech.jpg"},
+        {
+            "cor": "#161a19",
+            "titulo":"Honda HR-V 2022",
+            "FIPE": "Preço FIPE R$ 130.000",
+            "descricao": "O Honda HR-V é um SUV compacto conhecido por sua confiabilidade e versatilidade. Equipado com motor 1.5 Turbo de 173 cv ou motor 1.8 aspirado de 140 cv, oferece uma cabine espaçosa e bem equipada.",
+            "path": "https://cdn.motor1.com/images/mgl/28QLB/s1/4x3/honda-hr-v-2022-hibrido---europa.webp"},
+        {
+            "cor": "#20231a",
+            "titulo":"Citroën C3 2022",
+            "FIPE": "Preço FIPE R$ 70.000",
+            "descricao": "O Citroën C3 é um hatch compacto com design arrojado e opções de motorização que variam entre 1.0 e 1.6. Oferece uma boa lista de equipamentos e um interior confortável.",
+            "path": "https://mundodoautomovelparapcd.com.br/wp-content/uploads/2022/11/citroen-c3-com-acessorios-mopar-4.jpg"},
+        {
+            "cor": "#635d5a",
+            "titulo":"Fiat Fastback 2022",
+            "FIPE": "Preço FIPE R$ 150.000",
+            "descricao": "O Fiat Fastback é um SUV-cupê que combina elegância e esportividade. Com motor 1.3 Turbo de 185 cv e câmbio CVT, oferece um design moderno e interior tecnológico.",
+            "path": "https://quatrorodas.abril.com.br/wp-content/uploads/2022/09/Fiat_Fastback_Limted-1.3-turbo-43-e1663185856860.jpg?quality=70&strip=info&w=720&h=440&crop=1"},
+        {
+            "cor": "#6a6665",
+            "titulo":"Fiat Cronos 2022",
+            "FIPE": "Preço FIPE R$ 75.000",
+            "descricao": "O Fiat Cronos é um sedã compacto que oferece bom espaço interno e conforto. Disponível com motores 1.3 de 109 cv e 1.8 de 139 cv, além de opções de câmbio manual e automático.",
+            "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivMv9lFkoJIL-L6aNJRU_-Z4Tym6G6YxFtdXDCeEEyv_usN_hdn3p4Hi7mnntd-cgvBAlFvEsfmIbVM9ir9O7pumjcdtuoCPCdjUsRnDBmz4Z4qwYNGopfyqzA5he-SFDsCD_zQkIU21w/w640-h426/IMG_5980.JPG"},
+        {
+            "cor": "#424b4b",
+            "titulo":"Chevrolet S10 2022",
+            "FIPE": "Preço FIPE R$ 210.000",
+            "descricao": "A Chevrolet S10 é uma picape média robusta e versátil, com motor 2.8 Turbo Diesel de 200 cv, tração 4x4 e diversas configurações de cabine e caçamba",
+            "path": "https://cdn.motor1.com/images/mgl/WmgPg/s3/chevrolet-s10-2022.jpg"},
+        {
+            "cor": "#4a2e22",
+            "titulo":"Nissan Frontier 2022",
+            "FIPE": "Preço FIPE R$ 210.000,00 ​",
+            "descricao": "A Nissan Frontier é uma picape média conhecida por sua durabilidade e desempenho. Equipado com motor 2.3 Turbo Diesel de 190 cv e tração 4x4, oferece conforto e tecnologia avançada.",
+            "path": "https://cdn.motor1.com/images/mgl/vr18b/s1/2022-nissan-frontier-exterior-front-quarter.jpg"}
+    ],
+    "list14":[
+        {
+            "cor": "#9d8573",
+            "titulo":"Chevrolet Montana 2023",
+            "FIPE": "Preço FIPE R$ 130.050",
+            "descricao": "A Chevrolet Montana é uma picape compacta que oferece praticidade e economia para o trabalho urbano. Equipada com motor 1.4 de 99 cv, oferece uma boa capacidade de carga e eficiência no consumo de combustível.",
+            "path": "https://media.gm.com/content/dam/Media/images/BR/Vehicles/Chevrolet/picape/Montana/2023/product/nova-chevrolet-montana-A_frente%20(1).jpg"},
+        {
+            "cor": "#70726d",
+            "titulo":"Toyota SW4 2023",
+            "FIPE": "Preço FIPE R$ 320.000",
+            "descricao": "A Toyota SW4 é um SUV grande, derivado da Hilux, conhecido por sua robustez e confiabilidade. Disponível com motor 2.7 flex de 163 cv ou 2.8 turbodiesel de 204 cv, oferece tração 4x4 e uma cabine espaçosa e confortável.",
+            "path": "https://image1.mobiauto.com.br/images/api/images/v1.0/258414657/transform/fl_progressive,f_webp,q_80"},
+        {
+            "cor": "#664b35",
+            "titulo":"L200 Triton 2023",
+            "FIPE": "Preço FIPE R$ 246.990",
+            "descricao": "A L200 Triton é uma picape média robusta da Mitsubishi, equipada com motor 2.4 turbodiesel de 190 cv e tração 4x4. Conhecida por sua durabilidade e capacidade off-road, é uma escolha popular para uso em terrenos difíceis.",
+            "path": "https://www.autoo.com.br/fotos/2022/7/1280_960/mitsubishi1_07072022_71781_1280_960.jpg"},
+        {
+            "cor": "#544c46",
+            "titulo":"Peugeot 208 2023",
+            "FIPE": "Preço FIPE R$ 90.000",
+            "descricao": "O Peugeot 208 é um hatch compacto com design moderno e uma boa lista de equipamentos. Disponível com motores 1.2 de 90 cv e 1.6 de 118 cv, oferece um interior bem acabado e tecnologias de segurança avançadas.",
+            "path": "https://cdn.motor1.com/images/mgl/0eepL3/s1/peugeot-208-1.0-style-2023.webp"},
+        {
+            "cor": "#464741",
+            "titulo":"Fiat Mobi 2023",
+            "FIPE": "Preço FIPE R$ 60.000",
+            "descricao": "O Fiat Mobi é um subcompacto urbano, conhecido por sua economia e praticidade. Equipado com motor 1.0 de 75 cv, é ideal para uso em cidade, oferecendo agilidade e baixo consumo de combustível.",
+            "path": "https://cdn.motor1.com/images/mgl/4y4yY/s1/fiat-mobi-trekking-2022-teste-br.webp"
+        }
+    
+    ],
+    "list15":[
+        {
+            "cor": "#1b1b1b",
+            "titulo":"Fiat Mobi 2024",
+            "FIPE": "Preço FIPE R$ 66.800",
+            "descricao": "O Fiat Mobi é um subcompacto urbano, reconhecido por sua economia e praticidade. Ele vem equipado com motor 1.0 Fire de 75 cv e oferece uma boa dirigibilidade para uso em cidade. O Mobi possui um interior simples, mas funcional, com destaque para o sistema de conectividade My Car Fiat e Follow Me Home. É uma opção popular para quem busca um veículo econômico e ágil.",
+            "path": "https://revistacarro.com.br/wp-content/uploads/2024/01/Mobi3-1280x720.jpg"},
+        {
+            "cor": "#414b6c",
+            "titulo":"Renault Kwid 2024",
+            "FIPE": "Preço FIPE R$ 70.200",
+            "descricao": "O Renault Kwid é um hatch compacto, conhecido por seu estilo SUV e sua economia de combustível. Equipado com motor 1.0 SCe de 70 cv, ele apresenta um consumo eficiente tanto na cidade quanto na estrada. O Kwid oferece um bom pacote de segurança com 4 airbags, freios ABS com EBD e ancoragem ISOFIX. A versão 2024 inclui atualizações no design e mais tecnologia a bordo.",
+            "path": "https://s2-autoesporte.glbimg.com/ostbMNjyhm1Gu8A8Cuuizc2e8n0=/0x0:1400x788/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2022/6/a/1ZnCiuRLG6zLEqZgJULw/renault-kwid-outsider-12.jpg"},
+        {
+            "cor": "#a9aeae",
+            "titulo":"Renault Stepway 2024",
+            "FIPE": "Preço FIPE R$ 105.000",
+            "descricao": "O Renault Stepway é a versão aventureira do Sandero, com visual robusto e maior altura do solo. Ele vem equipado com motor 1.6 SCe de 118 cv, que proporciona um desempenho ágil e eficiente. O Stepway 2024 possui um design atualizado, com novos detalhes estéticos e mais tecnologia, incluindo sistema multimídia com tela touchscreen.",
+            "path": "https://static.virgola.com.br/images/Renault-Stepway-2024-Dianteira-2126.webp"},
+        {
+            "cor": "#a7a9a8",
+            "titulo":"Fiat Argo 2024",
+            "FIPE": "Preço FIPE R$ 98.000",
+            "descricao": "O Fiat Argo é um hatch compacto que combina estilo, conforto e tecnologia. Com opções de motores 1.0, 1.3 e 1.8, ele oferece diferentes níveis de desempenho para atender diversas necessidades. O Argo se destaca pelo interior bem-acabado e pelo bom nível de equipamentos, incluindo central multimídia com conectividade completa.",
+            "path": "https://blog.deltafiat.com.br/wp-content/uploads/2023/11/fiat-argo-2024.jpg"},
+        {
+            "cor": "#4a5454",
+            "titulo":"Volkswagen Polo Track 2024",
+            "FIPE": "Preço FIPE R$ 85.000",
+            "descricao": "O Volkswagen Polo Track é uma versão mais acessível do Polo, voltada para o público jovem. Ele é equipado com motor 1.0 MPI de 84 cv, oferecendo um bom equilíbrio entre desempenho e economia de combustível. O Polo Track 2024 mantém o design moderno e a qualidade de construção da Volkswagen, com foco em um custo-benefício atraente.",
+            "path": "https://cdn.motor1.com/images/mgl/Ak29KP/s1/volkswagen-polo-track-2023-teste.jpg"
+        }   
+    ]
+}
