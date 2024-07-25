@@ -9,7 +9,7 @@
 <p>Para cada ano, o site apresentará uma lista de 8 carros.</p>
 <p>OBS: Para os anos de 2023 e 2024, é exibido listas de apenas 5 carros.</p>
 <h2>Link para Acesso</h2>
-<p>Link: <a https://gabriel-malaquias.github.io/Automotive_Search/></a></p>
+<p>Link: https://gabriel-malaquias.github.io/Automotive_Search/</p>
 <h2>Como Contribuir</h2>
 <p>Se você estiver interessado em contribuir para este projeto, por favor, siga estas etapas:
 <div>
