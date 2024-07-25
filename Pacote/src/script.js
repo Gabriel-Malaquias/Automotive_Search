@@ -14,7 +14,7 @@ var listAtual = []
 var index = 0
 
 function carregar_json(){
-    fetch('list_car.json')
+    fetch('Pacote/src/list_car.json')
     .then(response => response.json())
     .then(data => {
         listas = [data.list1, data.list2, data.list3, data.list4, data.list5, data.list6,
